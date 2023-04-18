@@ -21,5 +21,11 @@ A collection of polyhedra and non-convex surfaces for light curve simulation
 - Usage limitations and notes: [Free, without copyright](https://www.nasa.gov/multimedia/guidelines/index.html)
 - [x] Add materials
 
+### THEMIS
+- Orbital regime: GEO
+- [Model source](https://nasa3d.arc.nasa.gov/detail/eoss-themis)
+- Usage limitations and notes: [Free, without copyright](https://www.nasa.gov/multimedia/guidelines/index.html)
+- [x] Add materials
+
 
 
