@@ -1,6 +1,6 @@
 # Blender v3.1.2 OBJ File: ''
 # www.blender.org
-mtllib tess_with_materials.mtl
+mtllib tess.mtl
 o BUS_Cylinder
 v 0.544407 -0.960880 -0.555005
 v 0.205996 -0.937449 -0.750407
