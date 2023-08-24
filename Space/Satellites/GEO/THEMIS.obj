@@ -1,6 +1,6 @@
 # Blender 3.4.1
 # www.blender.org
-mtllib THEMIS.mtl
+mtllib themis.mtl
 o foil_gold
 v 0.414492 -0.169157 -0.387459
 v 0.415926 -0.169959 -0.384832
